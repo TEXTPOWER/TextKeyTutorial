@@ -24,6 +24,16 @@ How the tutorial works
 
 There is a full explanation of how this package works at [TextKey Tutorial](http://localhost/textkey/developersite/apitextkeytutorials.php). You can find a breakdown of how the Tutorial works broken down into steps with details on each step.
 
+More Information
+----------------
+
+To get more detailed information on the TextKey API Services or to investigate the API in more detail, you can refer to the following:
+
+* [TextKey Developer Site](http://developer.textkey.com)
+* [TextKey API Call Documentation](http://developer.textkey.com/apidocumentation.php)
+* [Test All TextKey API Calls](http://developer.textkey.com/apitestapicalls.php)
+* [TextKey Sample Site](http://developer.textkey.com/apitextkeyexample.php)
+
 Contributing to this Tutorial Site
 ----------------------------------
 
